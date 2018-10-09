@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/cocoapods/l/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
 [![Platform](https://img.shields.io/cocoapods/p/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
 
-![voicy.gif](README/voicy.gif)
+![comet.gif](README/comet.gif)
 
 animation made by [kevin](https://medium.com/@kwijst) as part of Voicy design
 
