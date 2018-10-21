@@ -5,7 +5,6 @@ target 'Example' do
   use_frameworks!
 
   pod 'Comets', :path => '../'
-  pod 'Flags', '0.2.1'
   pod 'Gradients', '0.2.1'
   pod 'SnapKit', '4.0.1'
 end
