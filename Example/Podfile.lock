@@ -1,0 +1,27 @@
+PODS:
+  - Comets (0.1.1)
+  - Gradients (0.2.1)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - Comets (from `../`)
+  - Gradients (= 0.2.1)
+  - SnapKit (= 4.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Gradients
+    - SnapKit
+
+EXTERNAL SOURCES:
+  Comets:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Comets: 0ab34be9b6da428ee4d3063574312c55b470acb3
+  Gradients: b8b4ace9a5551a39e9bba2cc5a1de10dbe1eee46
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 4982421704d2c5b9cefdbbb9e3a9b742ff7bd859
+
+COCOAPODS: 1.6.0.beta.1
