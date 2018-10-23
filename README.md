@@ -46,6 +46,8 @@ for comet in comets {
 }
 ```
 
+![comet.gif](README/Comets.gif)
+
 ## Requirements
 Comets is written in  Xcode 10, Swift 4.2, iOS 9.0 Required
 
