@@ -10,7 +10,7 @@
 
 animation made by [kevin](https://medium.com/@kwijst) as part of Voicy design
 
-imprements **Bennet van der Linden** [medium](https://medium.com/call-voicy/comets-animating-particles-in-swift-3431a7f1b250) Comets: Animating Particles in Swift
+implements **Bennet van der Linden** [medium](https://medium.com/call-voicy/comets-animating-particles-in-swift-3431a7f1b250) Comets: Animating Particles in Swift
 
 ## Example
 ```swift
