@@ -52,11 +52,16 @@ for comet in comets {
 Comets is written in  Xcode 10, Swift 4.2, iOS 9.0 Required
 
 ## 📲 Installation
-Comets is available through [Cocoapods](http://cocoapods.org)
+Comets is available through [Cocoapods](http://cocoapods.org) or [Carthage](https://github.com/Carthage/Carthage).
 
 ### Cocoapods
 ```ruby
 pod "Comets"
+```
+
+### Carthage
+```
+github "cruisediary/Comets" ~> 0.2.0
 ```
 
 ## ❤️ Contribution
