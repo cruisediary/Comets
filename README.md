@@ -5,6 +5,7 @@
 [![Version](https://img.shields.io/cocoapods/v/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
 [![License](https://img.shields.io/cocoapods/l/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
 [![Platform](https://img.shields.io/cocoapods/p/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/cruisediary/Comets)
 
 ![comet.gif](README/comet.gif)
 
@@ -61,7 +62,7 @@ pod "Comets"
 
 ### Carthage
 ```
-github "cruisediary/Comets" ~> 0.2.0
+github "cruisediary/Comets" ~> 0.2.1
 ```
 
 ## ❤️ Contribution
