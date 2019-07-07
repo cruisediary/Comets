@@ -1,7 +1,7 @@
 # Comets
 ☄️ Comets: Animating Particles in Swift
 
-![Swift](https://img.shields.io/badge/Swift-4.2-orange.svg)
+![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 [![Version](https://img.shields.io/cocoapods/v/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
 [![License](https://img.shields.io/cocoapods/l/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
 [![Platform](https://img.shields.io/cocoapods/p/Comets.svg?style=flat)](http://cocoapods.org/pods/Comets)
@@ -50,7 +50,7 @@ for comet in comets {
 ![comet.gif](README/Comets.gif)
 
 ## Requirements
-Comets is written in  Xcode 10, Swift 4.2, iOS 9.0 Required
+Comets is written in  Xcode 10, Swift 5.0, iOS 9.0 Required
 
 ## 📲 Installation
 Comets is available through [Cocoapods](http://cocoapods.org) or [Carthage](https://github.com/Carthage/Carthage).
@@ -62,7 +62,7 @@ pod "Comets"
 
 ### Carthage
 ```
-github "cruisediary/Comets" ~> 0.2.1
+github "cruisediary/Comets" ~> 0.3.0
 ```
 
 ## ❤️ Contribution
