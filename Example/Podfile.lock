@@ -1,5 +1,5 @@
 PODS:
-  - Comets (0.3.0)
+  - Comets (0.3.1)
   - Gradients (0.3.0)
   - SnapKit (5.0.0)
 
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Comets: 80ad7341f67f2743b5f8bdcfaf299956b9840d57
+  Comets: ff75eb4658d612af66073bf9fcf6e8bef274817b
   Gradients: d7e1be639692b86577616ee55ea96f54fb5f1de1
   SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
 
