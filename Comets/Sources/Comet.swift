@@ -1,12 +1,19 @@
 public struct Comet {
-    public var startPoint: CGPoint
-    public var endPoint: CGPoint
-    public var lineColor: UIColor
+    let startPoint: CGPoint
+    let endPoint: CGPoint
+    let lineColor: UIColor
+    let cometColor: UIColor
     
-    public init(startPoint: CGPoint, endPoint: CGPoint, lineColor: UIColor) {
+    public init(
+        startPoint: CGPoint,
+        endPoint: CGPoint,
+        lineColor: UIColor = UIColor.white.withAlphaComponent(0.2),
+        cometColor: UIColor = UIColor.white
+    ) {
         self.startPoint = startPoint
         self.endPoint = endPoint
         self.lineColor = lineColor
+        self.cometColor = cometColor
     }
     
     public var linePath: UIBezierPath {
@@ -45,9 +52,9 @@ public struct Comet {
         return emitter
     }
     
-    public var contents: Any? {
+    private var contents: Any? {
         let cometLayer = CAGradientLayer()
-        cometLayer.colors = [UIColor.white.withAlphaComponent(0.0).cgColor, UIColor.white.cgColor]
+        cometLayer.colors = [cometColor.withAlphaComponent(0.0).cgColor, cometColor.cgColor]
         cometLayer.cornerRadius = 0.25
         cometLayer.frame = CGRect(x: 0, y: 0, width: 80, height: 0.5)
         cometLayer.locations = [0.0, 1.0]
