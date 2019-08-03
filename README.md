@@ -62,7 +62,7 @@ pod "Comets"
 
 ### Carthage
 ```
-github "cruisediary/Comets" ~> 0.3.0
+github "cruisediary/Comets" ~> 0.3.1
 ```
 
 ## ❤️ Contribution
